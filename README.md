@@ -1,13 +1,38 @@
-# 👋 Welcome to My Tech Arsenal!
+# 🎨 UI/UX Designer | Problem Solver
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;Open-Source+Contributor;Always+Learning...)](https://github.com/SupremeX15)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Designer;Problem+Solver;Tech+Enthusiast)](https://github.com/SupremeX15)
 
   **Building innovative solutions with code** 🚀
   
-  [![GitHub followers](https://img.shields.io/github/followers/SupremeX15?style=social&logo=github)](https://github.com/SupremeX15)
-  [![GitHub User's stars](https://img.shields.io/github/stars/SupremeX15?style=social&logo=github)](https://github.com/SupremeX15?tab=stars)
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-DEVPARTH7--CODER-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SupremeX15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DEVPARTH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devparth)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VISIT+SITE-4CAF50?style=for-the-badge&logo=About.me&logoColor=white)](https://devparth.netlify.app)
+[![Email](https://img.shields.io/badge/Email-DEVPARTH9784%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devparth9784@gmail.com)
+
+</div>
+
+---
+
+## 📊 Profile Stats
+
+<div align="center">
+
+| Badge | Info |
+|-------|------|
+| **Profile Views** | 414 |
+| **Status** | Open to Collaborations |
+| **Location** | 🇮🇳 India |
+| **Level** | CS Student |
 
 </div>
 
@@ -17,9 +42,9 @@
 
 ```
 🔭 Currently working on:     Innovative projects & open-source contributions
-🌱 Currently learning:       Advanced system design & cloud architecture  
+🌱 Currently learning:       Advanced system design & UI/UX principles & cloud architecture  
 👯 Looking to collaborate:   Open-source projects & startup ideas
-💡 Interested in:            Full-stack dev, AI/ML, DevOps & Web3
+💡 Interested in:            Full-stack dev, UI/UX design, AI/ML, DevOps & Web3
 🎨 Fun fact:                Code is poetry with proper syntax ✨
 ```
 
@@ -41,6 +66,15 @@
 
 </div>
 
+### 🎨 Design & UI/UX
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-FF6B9D?style=for-the-badge)
+
+</div>
+
 ### 🛠️ Tools & Frameworks
 <div align="center">
 
@@ -48,7 +82,6 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -56,7 +89,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Adobe CC](https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
 
 </div>
 
@@ -86,6 +118,7 @@
 | **Contributions** | 500+ |
 | **Open Source** | Active Contributor |
 | **Code Reviews** | 100+ |
+| **Profile Views** | 414 |
 
 </div>
 
@@ -93,6 +126,7 @@
 
 ## 🚀 Currently Diving Into...
 
+- 🎨 UI/UX Design & Web Design
 - 🤖 Machine Learning & AI
 - ☁️ Cloud Architecture (AWS/GCP)
 - 📱 Mobile App Development
@@ -105,10 +139,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+**Open to Collaborations** 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devparth)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devparth.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devparth9784@gmail.com)
 
 </div>
 
@@ -131,6 +166,6 @@
 
 ---
 
-**Made with ❤️ by SupremeX15** | Last updated: July 5, 2026
+**Made with ❤️ by SupremeX15** | Last updated: July 5, 2026 | UI/UX Designer & Problem Solver
 
 </div>

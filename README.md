@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Game+Developer;3D+Graphics+Enthusiast;Interactive+Experience+Creator)](https://github.com/SupremeX15)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Game+Developer;3D+Graphics+Enthusiast;[...]
 
   **Crafting immersive gaming experiences with cutting-edge technology** 
   
@@ -149,7 +149,7 @@ Explore my game development portfolio:
 
 **Open to Collaborations & Opportunities** 🎮
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avanish-kumar-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanish-kumar-52a00b328/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avanish.kumar@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SupremeX15)
 

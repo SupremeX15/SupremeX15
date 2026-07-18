@@ -1,4 +1,4 @@
-# 🎮 Game Developer | Creative Problem Solver
+# 🎮 Game Developer
 
 <div align="center">
   

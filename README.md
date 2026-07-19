@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Game+Developer;3D+Graphics+Enthusiast;Problem+Solver;Passionate+About+Gaming)](https://github.com/SupremeX15)
 
-  **Crafting immersive gaming experiences with cutting-edge technology** 
+  **Crafting immersive gaming experiences ** 
   
 </div>
 
